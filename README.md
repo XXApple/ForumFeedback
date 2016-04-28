@@ -1,5 +1,7 @@
 # Android Cat 论坛反馈专用Repo
 
+![](https://i.imgur.com/2ya9AKb.png)
+
 大家可以到issues上提出论坛的【建议】、【功能】、【Bug】等等
 
 当接纳后，会更新到下面的TODO List
