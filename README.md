@@ -14,7 +14,7 @@
 
 ##TODO List
 
-Waiting..
+1、增加发送表情功能
 
 --
 Thanks All!
