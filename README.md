@@ -14,7 +14,8 @@
 
 ##TODO List
 
-1、增加发送表情功能
+- [ ] 增加发送表情功能
+- [ ] 程序员日历美化
 
 --
-Thanks All!
+Thanks All! :smile:
